@@ -4,7 +4,9 @@ ver 1 BETA
 
 + menu ui
 + speed 
-+ invis
++ fly
++ hapitic feedback
++ noclip
 
 +++ REMOVED +++
 
